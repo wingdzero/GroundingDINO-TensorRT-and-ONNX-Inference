@@ -1,0 +1,12 @@
+torch
+torchvision
+transformers
+addict
+yapf
+timm
+numpy
+opencv-python
+supervision==0.6.0
+pycocotools
+onnx
+Onnxruntime-gpu==1.18.0
